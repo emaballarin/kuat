@@ -52,6 +52,6 @@ setup(
     install_requires=[
         "torch>=2",
     ],
-    include_package_data=False,
+    include_package_data=True,
     zip_safe=True,
 )
