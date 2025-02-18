@@ -7,5 +7,4 @@ cd ./kuat/ || exit
 mkdir -p kuat
 cp -R -f ../kaolin/kaolin/math/quat/* ./kuat/
 cp -f ../kaolin/version.txt ./
-cp -f ../kaolin/docs/notes/quaternions.rst ./
 rm -R -f ../kaolin

@@ -26,8 +26,8 @@ setup(
     author_email="emanuele@ballarin.cc",
     url="https://github.com/emaballarin/kuat",
     description="Quaternions in PyTorch (part of NVIDIA Kaolin)",
-    long_description=read("quaternions.rst"),
-    long_description_content_type="text/x-rst",
+    long_description=read("quaternions.md"),
+    long_description_content_type="text/markdown",
     keywords=[
         "Deep Learning",
         "Machine Learning",
